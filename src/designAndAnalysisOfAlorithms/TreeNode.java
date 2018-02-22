@@ -1,4 +1,4 @@
-package designAndAnalysisOfAlgorithms;
+package designAndAnalysisOfAlorithms;
 
 
 import org.checkerframework.checker.initialization.qual.Initialized;

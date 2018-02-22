@@ -1,4 +1,4 @@
-package designAndAnalysisOfAlgorithms;
+package designAndAnalysisOfAlorithms;
 
 public class TestForOptimalMerge {
 

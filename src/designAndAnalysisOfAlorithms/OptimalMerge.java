@@ -1,5 +1,5 @@
 
-package designAndAnalysisOfAlgorithms;
+package designAndAnalysisOfAlorithms;
 
 import org.checkerframework.checker.nullness.qual.Nullable;
 
